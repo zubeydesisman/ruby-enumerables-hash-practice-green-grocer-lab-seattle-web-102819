@@ -251,4 +251,3 @@ def checkout(cart: [], coupons: [])
 
 
 end
-checkout
